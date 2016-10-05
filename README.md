@@ -1,2 +1,4 @@
 # hello-world
-this my hello-world repository
+this is my hello-world repository
+
+I corrected the description.
